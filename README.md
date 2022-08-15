@@ -1,1 +1,1 @@
-# Nauka-TypeScript
+# Nauka-- Angular i TypeScript
